@@ -40,7 +40,7 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 
 ### PAIRING SERVER 2
 --------
-***Get [`SESSION CRED.JS`](https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh)  by pairing code. `WhatsApp>***
+***Get [`SESSION CRED.JS`](https://replit.com/@emmanuelhensha1/EMMYHENZ-SESSIONS-1#main.sh)  by pairing code. `WhatsApp>***
 --------|
 
 
