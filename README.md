@@ -3,9 +3,10 @@
 --------
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://telegra.ph/file/78899ccfed9d3ec2fee61.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/EMMYHENZ-TECH"><img title="Author" src="https://i.ibb.co/mcpbQ9k/cheemspic.jpg?style=for-the-badge&logo=github"></a>
 
-GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](https://github.com/GlobalTechInfo). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+  ## ERROR-V1 
+  is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](https://github.com/GlobalTechInfo). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{GLOBAL-MD}/count.svg" alt="Qasim Ali :: Visitor's Count" /></p>
 
@@ -28,24 +29,19 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 ### Fork The Repo
 
 --------
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK-GLOBAL MD-h?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/EMMYHENZ-TECH/ERROR-V1/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK-GLOBAL MD-h?color=red&style=for-the-badge&logo=stackshare"></a>
 --------|
 
-### `GENERATE SESSION`
+### `GENERATE SESSION 👇👇`
 
 
-### PAIRING SERVER 1
---------
-<a href='https://globalpair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
---------|
+### PAIRING SERVER
+----------------
 
-### PAIRING SERVER 2
---------
-<a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
---------|
+----------------
 
 
-`GET CREDS FILE AND UPLOAD IT INSIDE SESSION FOLDER OF FORK`
+`GET CREDS FILE AND UPLOAD IT INSIDE SESSION FOLDER OF FORKED REPO`
 
 --------
 
