@@ -5,10 +5,7 @@
 <p align="center">
 <a href="https://github.com/EMMYHENZ-TECH"><img title="Author" src="https://i.ibb.co/mcpbQ9k/cheemspic.jpg?style=for-the-badge&logo=github"></a>
 
-ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](https://github.com/EMMYHENZ-TECH). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ERROR-V1}/count.svg" alt="Qasim Ali :: Visitor's Count" /></p>
-
+ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https://github.com/EMMYHENZ-TECH). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 --------
 
