@@ -26,7 +26,7 @@ const { default: WAConnection, useMultiFileAuthState, Browsers, DisconnectReason
 
 
 
-const pairingCode = ERROR-V1.pairing_code || process.argv.includes('--pairing-code');
+const pairingCode = global.pairing_code || process.argv.includes('--pairing-code');
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 
