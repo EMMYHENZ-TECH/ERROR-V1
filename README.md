@@ -14,7 +14,7 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 
 
 <p align="center">
-<a href="https://github.com/EMMYHENZ-TECH/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=red&style=flat-square"></a>
+<a href="https://github.com/EMMYHENZ-TECH/followers"><img title="Followers" src="https://img.shields.io/github/followers/EMMYHENZ-TECH?color=red&style=flat-square"></a>
 <a href="https://github.com/EMMYHENZ-TECH/ERROR-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/ERROR-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/EMMYHENZ-TECH/ERROR-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/ERROR-V1?color=red&style=flat-square"></a>
 <a href="https://github.com/EMMYHENZ-TECH/ERROR-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/ERROR-V1?style=flat-square&color=green"></a>
