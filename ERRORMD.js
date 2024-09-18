@@ -967,8 +967,8 @@ quoted: m,
         }
         
 //time
-const xday = moment.tz('Asia/Karachi').locale('en-PK').format('dddd');
-const xdate = moment.tz('Asia/Karachi').locale('en-PK').format('DD/MM/YYYY');
+const xday = moment.tz('Africa/Nigeria').locale('en-PK').format('dddd');
+const xdate = moment.tz('Africa/Nigeria').locale('en-PK').format('DD/MM/YYYY');
 const xtime = moment().tz('Asia/Karachi').locale('en-PK').format('HH:mm:ss');
 const time2 = moment().tz('Asia/Karachi').format('HH:mm:ss')  
 if(time2 < "23:59:00"){
@@ -17083,7 +17083,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -18122,7 +18122,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -18609,7 +18609,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19076,7 +19076,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19497,7 +19497,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19932,7 +19932,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -20388,7 +20388,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -20809,7 +20809,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -21275,7 +21275,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -21692,7 +21692,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22105,7 +22105,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22533,7 +22533,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22956,7 +22956,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23429,7 +23429,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23845,7 +23845,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -24219,7 +24219,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -24245,7 +24245,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -24389,7 +24389,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -24642,7 +24642,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -24668,7 +24668,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -25059,7 +25059,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -25085,7 +25085,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -25229,7 +25229,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -25473,7 +25473,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -25499,7 +25499,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -25647,7 +25647,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -25889,7 +25889,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -25915,7 +25915,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -26059,7 +26059,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26307,7 +26307,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -26333,7 +26333,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -26477,7 +26477,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ERROR-V1 MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26732,7 +26732,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/82336d4b04ac81b77e18e.jpg',
+      thumbnailUrl: 'https://i.ibb.co/mcpbQ9k/cheemspic.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -26758,7 +26758,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/82336d4b04ac81b77e18e.jpg",
+thumbnailUrl: "https://i.ibb.co/mcpbQ9k/cheemspic.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
