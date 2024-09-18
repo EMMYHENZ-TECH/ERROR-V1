@@ -1,5 +1,5 @@
 {
-  "name": "GLOBAL-MD",
+  "name": "ERROR-V1",
   "version": "2.0.0",
   "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "start.js",
@@ -8,9 +8,9 @@
     "start": "node start.js"
   },
   "keywords": [
-    "Whatsapp Bot By GlobalTechInfo"
+    "Whatsapp Bot By EMMY HENZ"
   ],
-  "author": "GlobalTechInfo",
+  "author": "EMMY HENZ",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "^6.7.5",
