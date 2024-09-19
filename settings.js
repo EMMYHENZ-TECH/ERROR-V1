@@ -16,14 +16,17 @@ global.websitex = "https://www.youtube.com/@EMMYHENZTECHINFO"
 global.wagc = "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/EMMYHENZ-TECH/ERROR-V1' //script link
-global.packname = "EMMY HENZ"
+global.botscript = 'https://github.com/' //script link
+global.packname = "Sticker By"
 global.author = "EMMYTECHINFO\n\n+2349121785627"
 global.creator = "2349125042727@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["2349125042727"] // Premium User
 
-global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
+//channel id
+global.xchannel = {
+	jid: '120363319098372999@newsletter'
+	}
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
