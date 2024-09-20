@@ -23,6 +23,9 @@ global.creator = "2349125042727@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["2349125042727"] // Premium User
 
+//theme link
+global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
+
 //channel id
 global.xchannel = {
 	jid: ''
