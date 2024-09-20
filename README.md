@@ -32,12 +32,12 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https://g
 
 ### PAIRING SERVER 1
 --------
-***Get [`SESSION CRED.JS`]()  by pairing code. `WhatsApp>***
+***Get [`SESSION CRED.JS`](https://replit.com/@mmnlhnshw/EMMYHENZ-SESSIONS#main.sh)  by pairing code. `WhatsApp>***
 --------|
 
 ### PAIRING SERVER 2
 --------
-***Get [`SESSION CRED.JS`](https://replit.com/@emmanuelhensha1/EMMYHENZ-SESSIONS-1#main.sh)  by pairing code. `WhatsApp>***
+***Get [`SESSION CRED.JS`](https://replit.com/@mmnlhnshw/EMMYHENZ-SESSIONS#main.sh)  by pairing code. `WhatsApp>***
 --------|
 
 
