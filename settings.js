@@ -4,7 +4,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: EMMYHENZTECHINFO" //ur yt chanel name
+global.ytname = "YT: https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" //ur yt chanel name
 global.socialm = "GitHub: EMMYHENZ-TECH" //ur github or insta name
 global.location = "Africa, Nigeria, calabar" //ur location
 
