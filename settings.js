@@ -28,7 +28,7 @@ global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
 
 //channel id
 global.xchannel = {
-	jid: ''
+	jid: '120363317747980810@newsletter'
 	}
 
 //bot sett
