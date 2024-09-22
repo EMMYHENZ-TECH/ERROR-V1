@@ -10,7 +10,7 @@ global.location = "Africa, Nigeria, calabar" //ur location
 
 //new
 global.botname = '© ERROR-V1' //ur bot name
-global.ownernumber = ['2349125042727'] //ur owner number, dont add more than one
+global.ownernumber = ['14168483856'] //ur owner number, dont add more than one
 global.ownername = '© EMMYHENZ' //ur owner name
 global.websitex = "https://www.youtube.com/@EMMYHENZTECHINFO"
 global.wagc = "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C"
@@ -19,9 +19,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/' //script link
 global.packname = "Sticker By"
 global.author = "EMMYTECHINFO\n\n+2349121785627"
-global.creator = "2349125042727@s.whatsapp.net"
+global.creator = "14168483856@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349125042727"] // Premium User
+global.premium = ["14168483856"] // Premium User
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
