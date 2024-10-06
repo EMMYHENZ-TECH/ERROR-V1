@@ -29,7 +29,7 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMYHENZ-TECH](https
 ### Fork The Repo
 
 --------
-***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMYHENZ-TECH/ERROR-V1)***
+***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMYHENZ-TECH/ERROR-V1/FORK)***
 --------|
 
 
@@ -39,17 +39,14 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMYHENZ-TECH](https
 ### `DEPLOYEMENTS 👇👇🥰`
 
 
-### BOT HOSTING PANEL LINK
 ### ***[`BOT HOSTING. NET`](https://bot-hosting.net/?aff=1271741477571006527)***
 
-
-### REPLIT
-###  ***[`REPLIT`](https://replit.com)***
+###  ***[`REPLIT`](https://repl.it/github/EMMYHENZ-TECH/ERROR-V1)***
 
 --------
 --------
 
-### ***[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
+### ***[`!`[`JOIN WHATSAPP CHANNEL`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
 
 -------
 
@@ -75,7 +72,7 @@ npm start
 --------
 
 
-## ♦️`NOTE`
+## 🎁`NOTE`
    
 ## 
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
