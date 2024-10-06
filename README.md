@@ -34,10 +34,13 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMYHENZ-TECH](https
 
 
 ### IT AUTO-GENERATES PAIRING CODE✅🔥
+--------------
 
 
+-----------------
 ### `DEPLOYEMENTS 👇👇🥰`
-
+-------------
+-------------
 
 ### ***[`BOT HOSTING. NET`](https://bot-hosting.net/?aff=1271741477571006527)***
 
@@ -46,7 +49,7 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMYHENZ-TECH](https
 --------
 --------
 
-### ***[`!`[`JOIN WHATSAPP CHANNEL`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
+### ***[`!`[`JOIN WHATSAPP CHANNEL`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)]***
 
 -------
 
