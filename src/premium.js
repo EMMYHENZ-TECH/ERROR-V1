@@ -1,6 +1,3 @@
-//subscribe to my youtube channel: https://youtube.com/@EMMYHENZTECHINFO
-// WHATSAPP CHANNEL: https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C
-
 const fs = require('fs');
 const toMs = require('ms');
 
