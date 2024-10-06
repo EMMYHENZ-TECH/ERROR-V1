@@ -24,30 +24,32 @@ ERROR-V1  is a Cool Multi-Device WhatsApp bot developed by [EMMYHENZ-TECH](https
 </p>
 
 ### `INSTALLATION METHOD`
+
   
 ### Fork The Repo
 
 --------
-***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMYHENZ-TECH/ERROR-V1+Fork)***
+***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMYHENZ-TECH/ERROR-V1)***
 --------|
 
+
 ### IT AUTO-GENERATES PAIRING CODE✅🔥
+
 
 ### `DEPLOYEMENTS 👇👇🥰`
 
 
 ### BOT HOSTING PANEL LINK
-<a href='https://bot-hosting.net/?aff=1271741477571006527' target="_blank"><img alt='Panel Link'
-src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
+### ***[`BOT HOSTING. NET`](https://bot-hosting.net/?aff=1271741477571006527)***
 
-`AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND DEPLOY ON REPLIT
 
-   <a href='https://repl.it/github/EMMYHENZ-TECH/ERROR-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+### REPLIT
+###  ***[`REPLIT`](https://replit.com)***
 
 --------
 --------
 
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)
+### ***[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
 
 -------
 
