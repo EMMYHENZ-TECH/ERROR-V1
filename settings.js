@@ -4,12 +4,12 @@ const chalk = require('chalk');
 //owmner v card
 global.ytname = "YT: EMMYHENZTECHINFO" //ur yt chanel name
 global.socialm = "GitHub: EMMYHENZ-TECH" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.location = "Nigeria, Delta, Oghara" //ur location
 
 //new
 global.botname = 'ERROR V1.1 MD' //ur bot name
-global.ownernumber = ['2349125042727'] //ur owner number, dont add more than one
-global.ownername = 'EMMY-HENZ' //ur owner name
+global.ownernumber = ['2348022142390'] //ur owner number, dont add more than one
+global.ownername = 'Viper-Bug' //ur owner name
 global.websitex = "https://youtube.com/@EMMYHENZTECHINFO"
 global.wagc = "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C"
 global.themeemoji = '⛩'
@@ -17,9 +17,9 @@ global.wm = "EMMY-HENZ Bot Inc."
 global.botscript = 'https://github.com/EMMYHENZ-TECH/ERROR-V1' //script link
 global.packname = "ERROR V1.1 MD"
 global.author = "ERROR V1.1 MD"
-global.creator = "2349121785627@s.whatsapp.net"
+global.creator = "2348022142390@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349125042727"] // Premium User
+global.premium = ["2348022142390"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
